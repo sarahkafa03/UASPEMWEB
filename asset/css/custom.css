@@ -1,0 +1,8 @@
+/** Your theme modifications here **/
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #0c78dd;
+  background-color: #34f20e;
+}
